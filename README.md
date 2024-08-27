@@ -36,6 +36,8 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 - The game is played between two players on a 5x5 grid.
 - Players arrange their characters on their respective starting rows.
 - Each player controls a team of 5 characters, choosing from Pawns, Hero1, Hero2, and Hero3.
+- One player clicks the "Create Game" button, which generates a unique game code.
+- The other player and spectators can join the game using the generated code.
 
 ### Characters and Movement
 
@@ -70,5 +72,33 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 - **Team Composition**: Allow players to choose different team setups.
 - **Spectator Mode**: Enable others to watch ongoing games.
 - **In-Game Chat**: Communicate with your opponent during the game.
+
+
+## Game Pictures
+### Landing page:
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/fb17095f-dc48-4c7f-9032-ac2e0f316ca7">
+
+### Code generation:
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/76a7d94b-38ed-4a72-a9b1-19efc857b17b">
+
+### After joining the game with code:
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/7f81a2d1-561e-4418-8c6a-81bfc8554c4e">
+
+### Starting the game:
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/819e2ca8-d439-42d0-8279-a28355627532">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ee8a120a-be9c-4cbb-a31d-057f1744616a">
+
+### During the Game:
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8544d820-18e8-4e3a-9e52-7dde459f2175">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/bc928ebb-18c5-47e1-b4d0-039bba603b43">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1bc35958-8510-4d44-a491-867db807afbf">
+
+### After Winning the game:
+<img width="960" alt="win" src="https://github.com/user-attachments/assets/95d129f5-7813-41da-bd0b-a322d73295e1">
+<img width="960" alt="win3" src="https://github.com/user-attachments/assets/40e9c7a2-0c57-4122-9002-53becf461146">
+<img width="960" alt="win2" src="https://github.com/user-attachments/assets/642116c8-662e-4bb9-b5df-96562fa3a602">
+
+
+
 
 
