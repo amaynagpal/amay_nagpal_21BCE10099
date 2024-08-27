@@ -38,6 +38,8 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 - Each player controls a team of 5 characters, choosing from Pawns, Hero1, Hero2, and Hero3.
 - One player clicks the "Create Game" button, which generates a unique game code.
 - The other player and spectators can join the game using the generated code.
+- **The game will only start when both players have set up their characters.** The chessboard will appear to the players only after both have completed their setup.
+- Spectators will see an empty board until both players have set their characters.
 
 ### Characters and Movement
 
