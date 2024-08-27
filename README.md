@@ -79,7 +79,7 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/fb17095f-dc48-4c7f-9032-ac2e0f316ca7">
 
 ### Code generation:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/76a7d94b-38ed-4a72-a9b1-19efc857b17b">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8e03950e-dead-4ca9-9e7b-bebc035bc176">
 
 ### After joining the game with code:
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/7f81a2d1-561e-4418-8c6a-81bfc8554c4e">
