@@ -76,7 +76,7 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 
 ## Game Pictures
 ### Landing page:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/fb17095f-dc48-4c7f-9032-ac2e0f316ca7">
+![Screenshot 2024-08-27 082214](https://github.com/user-attachments/assets/ef80a6c6-4b14-47f1-b356-ad3179766641)
 
 ### Code generation:
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/8e03950e-dead-4ca9-9e7b-bebc035bc176">
