@@ -1,0 +1,13 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "A turn-based chess-like game with websockets",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
