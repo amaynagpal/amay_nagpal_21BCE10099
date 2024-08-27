@@ -79,24 +79,26 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 ![Screenshot 2024-08-27 082214](https://github.com/user-attachments/assets/ef80a6c6-4b14-47f1-b356-ad3179766641)
 
 ### Code generation:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/8e03950e-dead-4ca9-9e7b-bebc035bc176">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/16dad257-d9fe-4f0a-babb-0b24321ed1d1">
 
 ### After joining the game with code:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/7f81a2d1-561e-4418-8c6a-81bfc8554c4e">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/86d44b95-ee03-4686-95d4-559f8846dcec">
 
 ### Starting the game:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/819e2ca8-d439-42d0-8279-a28355627532">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/ee8a120a-be9c-4cbb-a31d-057f1744616a">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/93d2254a-f544-4dc0-92c1-5c241e792dd3">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/b1552fa6-bf3a-4d96-9861-2eda6f96e204">
 
 ### During the Game:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/8544d820-18e8-4e3a-9e52-7dde459f2175">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/bc928ebb-18c5-47e1-b4d0-039bba603b43">
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/1bc35958-8510-4d44-a491-867db807afbf">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/339faa21-7afb-45a1-a930-bf34222d8d94">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/bbba011a-26a1-46d0-9145-4044e4c9eb55">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a23f55a0-3a15-4004-974c-8cd108031e52">
 
 ### After Winning the game:
-<img width="960" alt="win" src="https://github.com/user-attachments/assets/95d129f5-7813-41da-bd0b-a322d73295e1">
-<img width="960" alt="win3" src="https://github.com/user-attachments/assets/40e9c7a2-0c57-4122-9002-53becf461146">
-<img width="960" alt="win2" src="https://github.com/user-attachments/assets/642116c8-662e-4bb9-b5df-96562fa3a602">
+<img width="960" alt="win" src="https://github.com/user-attachments/assets/eb669245-1751-4bd4-8e3e-ecde9ae227a0">
+<img width="960" alt="win3" src="https://github.com/user-attachments/assets/7ae47b95-a382-4e86-909e-edda0f213071">
+<img width="960" alt="win2" src="https://github.com/user-attachments/assets/eade9fd9-c99f-42c8-ba59-623d126543c2">
+
+
 
 
 
