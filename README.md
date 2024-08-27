@@ -27,7 +27,7 @@ This project is a turn-based chess-like game played on a 5x5 grid, designed with
 ## Setup Instructions
 1. Clone the repository.
 2. Install dependencies using `npm install`after navigating in project directory.
-3. Run the server with `node app.js` in VS Code.
+3. Run the server with `node app.js` in VS Code terminal.
 4. Open your browser and navigate to http://localhost:3000 to start playing the game.
 
 ## How to Play
